@@ -1,8 +1,9 @@
 #include <stdio.h>
 #include <math.h>
 float funky(float x) {
-	float y;
-	y = exp(x);
+	float y,a;
+	a = 10
+	y = a*x;
 	return y;
 }
 int main() {
