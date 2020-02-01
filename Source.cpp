@@ -2,7 +2,7 @@
 #include <math.h>
 float funky(float x) {
 	float y,a;
-	a = 10
+	a = 10;
 	y = a*x;
 	return y;
 }
