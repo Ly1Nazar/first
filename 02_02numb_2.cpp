@@ -1,5 +1,5 @@
-#include <iostream>
-using namespace std;    
+#include <stdio.h>
+//shows number of changes of sign during input
 int main() {
     int numb,next,count;
     numb = 0;
