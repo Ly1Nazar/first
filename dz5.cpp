@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <math.h>
+//dz5 binary operations 
 char calc(char a) {
 	for (int i = 0; i < 7; i++) {
 		char f = pow(2, i);
